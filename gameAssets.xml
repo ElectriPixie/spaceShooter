@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="800" height="600" framerate="24">
+<frame>
+  <library>
+    <clip id="pBullet" import="images/playerShips/bullet.png"/>
+    <clip id="pShip" import="images/playerShips/spaceship0.png" />
+    <clip id="eShip" import="images/enemyShips/enemyShip0.png" />
+    <clip id="eShip2" import="images/enemyShips/enemyShip2.png" />
+    <clip id="eShip3" import="images/enemyShips/enemyShip3.png" />
+    <clip id="eShip4" import="images/enemyShips/enemyShip4.png" />
+    <clip id="eBullet" import="images/enemyShips/enemyBullet.png" />
+    <clip id="powerUp" import="images/powerUps/powerup.png" />
+    <clip id="star" import="images/backgrounds/star.png" />
+    <clip id="explosion" import="images/effects/explosion.png" />
+    <clip id="backGround" import="images/backgrounds/background.png" />
+    <clip id="startGameScreen" import="images/screens/startGameScreen.png" />
+    <clip id="gameOverScreen" import="images/screens/gameOverScreen.png" />
+    <sound id="explosion" import="sounds/explosion.mp3" />
+    <sound id="silence" import="sounds/silence.mp3" />
+  </library>
+</frame>
+</movie>
